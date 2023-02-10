@@ -1,1 +1,1 @@
-Create a script that switches the current user
+a script that switches the current user
